@@ -7,7 +7,7 @@ Creacion de Servidor con los puertos correspondientes,en **Amanzon Web Service**
 eduardojordan.com
 ~~~
 
-##Direccion de App (nodepop)
+## Direccion de App (nodepop)
 ~~~
 ec2-54-84-2-63.compute-1.amazonaws.com
 ~~~
