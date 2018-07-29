@@ -17,7 +17,7 @@ style.css
 /stylesheets
 ~~~
 
->Le asigne el filtro para banear ataques,
+>Le asigne el filtro para banear ataques, se configuro PM2 para reiniciar los servicios .
 
 Trabaje con el repo de referencia de el profesor de Node
 
